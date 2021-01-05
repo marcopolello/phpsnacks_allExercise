@@ -1,0 +1,1 @@
+phpsnacks_allExercise
